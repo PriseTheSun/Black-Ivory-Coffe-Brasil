@@ -1,4 +1,4 @@
-# Black-Ivory-Coffe-Brasil (https://blackivorycoffebrasil.netlify.app/)
+# Black Ivory Brasil (https://blackivorycoffebrasil.netlify.app/)
 Black ivory was the result of research on coffee. Where I could apply knowledge in Bootstrap, HTML, CSS, SASS and JavaScript technologies.
 
 
